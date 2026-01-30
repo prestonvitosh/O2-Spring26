@@ -45,3 +45,14 @@ Because of these problems, key requirements and features can be identified:
 - By 03/29, successfully implement adaptive scaffolding
 - By 04/12, alter and fine-tune the design of the interface to our liking and our client's
 - By 05/03, thoroughly document necessary moderation actions for the client and, if applicable, the next steps for the client or a future development team
+
+### Team members
+
+- Preston
+  - Product Owner
+- Drydin
+  - Sprint Master 1
+- Camellia
+  - Sprint Master 2
+- Henry
+- Sudhiksha
