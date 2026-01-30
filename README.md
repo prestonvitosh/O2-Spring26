@@ -1,4 +1,4 @@
-# InspirEd -- Medical education app
+# InspirEd: A medical education app
 
 ## Group A CS 4273 Spring 2026
 
