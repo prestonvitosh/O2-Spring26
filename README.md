@@ -4,7 +4,7 @@
 
 ### Description
 
-InspirEd is a medical education application, specifically designed for the education surrounding rare lung diseases.
+InspirEd is a medical education application, specifically designed for education surrounding rare lung diseases. It is made to adapt to the user's level of knowledge to provide the most pertinent and useful information regarding these specific diseases. An LLM is used to connect the user to prewritten education modules pertaining to the given disease, ensuring that correct and usable information is given to the user.
 
 ### Other apps and sources
 
@@ -24,4 +24,24 @@ There aren't any existing apps and sites that provide infromation about rare lun
  
 ### Requirements and key features
 
-Because of these problems,
+Because of these problems, key requirements and features can be identified:
+- Adaptive scaffolding to tier learning and provide information to the user based on their level of knowledge
+- Database with disease information provided by experts and moderators, not by LLMs
+- An LLM to link the user to these modules based on their needs and level of knowledge, solely to provide confirmed information, not diagnoses
+- An easy way for educators and the client to successfully add modules
+- A well-documented path for the client to edit the interface, add modules, run the database, and any other pertinent moderation actions
+- Inclusion of the prior scribe feature to transcribe a doctor's visit in real time for keywords
+
+### Development platforms
+
+- The designs will be made in Figma, where we will primarily focus on the mobile app interface
+- Most of the current app has been developed in React Native in Expo Go, and we will continue this
+- We will make a new database in Google Firebase
+- We will use Google Gemini for the AI LLM
+
+### Goals and progress
+- By 02/15, have a working database with mock health education information in tiered modules
+- By 03/08, have a working LLM to link to modules
+- By 03/29, successfully implement adaptive scaffolding
+- By 04/12, alter and fine-tune the design of the interface to our liking and our client's
+- By 05/03, thoroughly document necessary moderation actions for the client and, if applicable, the next steps for the client or a future development team
