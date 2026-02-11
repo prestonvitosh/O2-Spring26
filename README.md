@@ -46,7 +46,7 @@ Because of these problems, key requirements and features can be identified:
 - By 04/12, alter and fine-tune the design of the interface to our liking and our client's
 - By 05/03, thoroughly document necessary moderation actions for the client and, if applicable, the next steps for the client or a future development team
 
-### Team members
+### Team members and roles
 
 - Preston
   - Product Owner
@@ -54,5 +54,7 @@ Because of these problems, key requirements and features can be identified:
   - Sprint Master 1
 - Camellia
   - Sprint Master 2
-- Henry
 - Sudhiksha
+  - Sprint Master 3
+- Henry
+  - Sprint Master 4
