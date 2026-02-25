@@ -43,7 +43,7 @@ Because of these problems, key requirements and features can be identified:
 - By 02/15, have a working database with mock health education information in tiered modules
 - By 03/08, have a working LLM to link to modules
 - By 03/29, successfully implement adaptive scaffolding
-- By 04/12, alter and fine-tune the design of the interface to our liking and our client's
+- By 04/12, alter and fine-tune the design of the interface to our client's liking and to our liking
 - By 05/03, thoroughly document necessary moderation actions for the client and, if applicable, the next steps for the client or a future development team
 
 ### Team members and roles
